@@ -1,0 +1,21 @@
+{
+    "name": "neurona artificial",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "Writing Code": "github:luisfegomezpe/writing-code#master"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
